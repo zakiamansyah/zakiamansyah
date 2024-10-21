@@ -23,9 +23,9 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Developer @ [Idejualan](https://idejualan.com/)
+- :telescope: I’m working as a FullStack Developer @ [CPP](https://www.cpp.co.id/)
 
-- :telescope: I’m working as a Software Engineer @[QlokApp](https://www.qlok.app/)
+- :telescope: I’m working as a Software Developer @[KirimPaket](https://app.kirimpaket.id/login/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zaki-amansyah-466207127/)
 
