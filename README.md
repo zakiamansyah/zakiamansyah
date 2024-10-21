@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a FullStack Developer @ [CPP](https://www.cpp.co.id/)
+- :telescope: I’m working as a FullStack Developer @[CPP](https://www.cpp.co.id/)
 
 - :telescope: I’m working as a Software Developer @[KirimPaket](https://app.kirimpaket.id/login/)
 
